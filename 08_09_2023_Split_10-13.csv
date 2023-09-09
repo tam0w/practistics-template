@@ -1,0 +1,24 @@
+first_kill,time,first_death,spike_plant,defuse,fb_team,fb_players,dt_players,team_buy,oppo_buy,total_kills,total_deaths,awps_info,side,round_win
+Jett,0:10,Sage,A,False,team,,Leozm,800,800,5,4,none,Attack,win
+Sage,0:09,Jett,B,False,opponent,Leozm,Sikh le khelna,"3,500",500,5,3,none,Attack,win
+Reyna,0:08,Raze,False,False,opponent,XXxMANASxXx,wiZz4k,"3,900","4,300",0,5,none,Attack,loss
+Sage,0:51,Skye,False,False,opponent,Leozm,INT Noddy,"2,300","4,500",2,5,none,Attack,loss
+Jett,0:03,Raze,B,False,team,,HMI mrX,"3,300",400,5,1,opponent,Attack,win
+Jett,0:14,Sage,B,True,team,,Leozm,"4,800","4,000",4,5,team,Attack,loss
+Skye,0:12,Astra,False,False,opponent,NEPX,tam0w,"4,200",400,0,5,none,Attack,loss
+Sage,0:26,Jett,False,False,opponent,Leozm,Sikh le khelna,"1,700","4,700",1,4,none,Attack,loss
+Skye,0:08,Jett,A,True,opponent,NEPX,Sikh le khelna,"4,100","4,700",5,5,none,Attack,loss
+Omen,0:10,Jett,False,False,opponent,Nihal,Sikh le khelna,"3,900","5,100",1,5,opponent,Attack,loss
+Raze,0:06,Deadlock,False,False,opponent,HMI mrX,STARLORD 007,"2,400","5,100",2,5,opponent,Attack,loss
+Reyna,0:08,Skye,False,False,opponent,XXxMANASxXx,INT Noddy,"3,900",400,1,5,opponent,Attack,loss
+Astra,0:10,Raze,False,False,team,,HMI mrX,700,800,5,4,none,Defense,win
+Deadlock,0:27,Reyna,False,False,team,,XXxMANASxXx,"3,100",400,5,0,none,Defense,win
+Reyna,0:05,Jett,False,False,opponent,XXxMANASxXx,Sikh le khelna,"3,200","4,100",5,2,none,Defense,win
+Skye,0:05,Raze,A,True,team,NEPX,HMI mrX,"4,400","1,700",5,3,none,Defense,win
+Raze,0:10,Astra,B,False,opponent,HMI mrX,tam0w,"4,500","4,500",4,5,none,Defense,loss
+Raze,0:07,Skye,B,False,team,HMI mrX,NEPX,"4,400","4,700",3,5,none,Defense,loss
+Jett,0:16,Reyna,False,False,team,,XXxMANASxXx,"3,500","4,700",5,1,none,Defense,win
+Deadlock,0:06,Skye,False,False,team,,NEPX,"4,100","2,600",5,3,none,Defense,win
+Raze,0:29,Raze,B,False,opponent,HMI mrX,wiZz4k,"4,500","4,000",1,5,none,Defense,loss
+Raze,0:07,Reyna,False,False,team,HMI mrX,XXxMANASxXx,"4,100","4,600",5,4,none,Defense,win
+Jett,0:20,Raze,A,False,team,,HMI mrX,"4,100",600,2,5,none,Defense,loss

@@ -1,0 +1,15 @@
+first_kill,time,first_death,spike_plant,defuse,fb_team,fb_players,dt_players,team_buy,oppo_buy,total_kills,total_deaths,awps_info,side,round_win
+Reyna,0:16,Raze,False,True,team,One Bullet,kittymeowmeow,800,700,2,5,none,Attack,loss
+Cypher,0:08,Reyna,False,False,opponent,Beartic,tam0w,400,"3,000",1,5,none,Attack,loss
+Cypher,0:09,Jett,False,False,opponent,Beartic,xingocc,"4,400",600,5,3,none,Attack,win
+Omen,0:19,Raze,False,True,team,2107,kittymeowmeow,"4,200",400,3,5,none,Attack,loss
+Reyna,0:07,Jett,False,False,opponent,One Bullet,xingocc,"1,600","4,600",3,5,none,Attack,loss
+Reyna,0.24,Jett,False,False,opponent,One Bullet,xingocc,"4,500","4,700",2,5,none,Attack,loss
+Sova,0.24,Reyna,False,True,team,Zmewus,One Bullet,"2,000","4,700",4,5,none,Attack,loss
+Jett,0.22,Reyna,False,True,team,,One Bullet,"4,500","4,500",3,5,none,Attack,loss
+Reyna,0:07,Reyna,False,False,opponent,One Bullet,tam0w,"4,000","4,500",0,5,none,Attack,loss
+Reyna,0:03,Sova,False,False,opponent,One Bullet,sojo,"2,600","4,600",1,5,none,Attack,loss
+Raze,0:05,Cypher,False,False,opponent,kittymeowmeow,strixx,"3,800","4,800",3,5,none,Attack,loss
+Reyna,0:08,Sova,False,True,team,One Bullet,Zmewus,"3,300","5,200",4,5,opponent,Attack,loss
+Raze,0:02,Reyna,False,False,opponent,kittymeowmeow,tam0w,700,600,2,5,none,Defense,loss
+Reyna,0:17,Sova,False,False,opponent,One Bullet,sojo,"1,700",",800",3,5,none,Defense,loss

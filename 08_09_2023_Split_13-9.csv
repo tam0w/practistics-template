@@ -1,0 +1,23 @@
+first_kill,time,first_death,spike_plant,defuse,fb_team,fb_players,dt_players,team_buy,oppo_buy,total_kills,total_deaths,awps_info,side,round_win
+Jett,0:06,Reyna,A,False,opponent,melancholy,3dlog,800,800,1,5,none,Defense,loss
+Cypher,0:13,Reyna,A,False,opponent,Bumm,3dlog,500,"4,000",1,5,none,Defense,loss
+Reyna,0:10,Sage,A,False,opponent,Silly Boost,Dau7,"4,200","4,000",3,5,none,Defense,loss
+Reyna,0:04,Reyna,A,False,opponent,Silly Boost,3dlog,900,"4,900",2,5,none,Defense,loss
+Reyna,0:11,Omen,False,False,opponent,Silly Boost,Rubyannie,"4,500","4,800",5,1,none,Defense,win
+Jett,0:14,Skye,False,False,opponent,melancholy,Justcloud,"4,600","4,100",5,1,none,Defense,win
+Jett,0:17,Skye,A,False,opponent,melancholy,Justcloud,"4,800","4,100",1,6,none,Defense,loss
+Jett,0:10,Sage,B,False,opponent,melancholy,Dau7,"4,400","4,700",1,5,none,Defense,loss
+Reyna,0:12,Reyna,A,False,team,Silly Boost,Silly Boost,"3,300","4,700",2,5,none,Defense,loss
+Omen,0:17,Sage,A,False,opponent,2107,Dau7,"3,800","4,700",1,5,none,Defense,loss
+Omen,0:04,Reyna,A,False,opponent,2107,3dlog,"2,500","4,700",0,5,none,Defense,loss
+Cypher,0:07,Raze,False,False,opponent,Bumm,tam0w,"4,300","5,000",5,2,none,Defense,win
+Skye,0:06,Jett,B,False,team,Zmewus,melancholy,800,800,5,4,none,Attack,win
+Reyna,0:11,Skye,A,False,opponent,Silly Boost,Justcloud,"3,600",700,5,3,none,Attack,win
+Raze,0:13,Reyna,A,False,team,,Silly Boost,"3,800","4,000",5,2,none,Attack,win
+Omen,0:12,Reyna,B,False,team,2107,Silly Boost,"4,800",400,5,3,none,Attack,win
+Cypher,0:04,Raze,A,False,opponent,Bumm,tam0w,"4,700","4,700",5,5,opponent,Attack,win
+Sage,0:09,Jett,B,False,team,,melancholy,"4,400","2,400",5,2,none,Attack,win
+Raze,0:12,Jett,B,False,team,,melancholy,"4,700","4,500",5,3,opponent,Attack,win
+Omen,0:30,Jett,B,False,team,2107,melancholy,"4,800","2,200",5,1,none,Attack,win
+Jett,0:02,Reyna,A,False,opponent,melancholy,3dlog,"4,800","4,300",5,4,none,Attack,win
+Raze,0:08,Skye,A,False,team,,Zmewus,"4,700","3,300",5,2,none,Attack,win

@@ -1,0 +1,23 @@
+first_kill,time,first_death,spike_plant,defuse,fb_team,fb_players,dt_players,team_buy,oppo_buy,total_kills,total_deaths,awps_info,side,round_win
+Raze,0:32,Cypher,B,True,team,BOIt OP,PavamaN,800,700,1,5,none,Attack,loss
+Sage,0:38,Gekko,False,False,opponent,Sasta rossi,bhooka,600,"2,600",0,5,none,Attack,loss
+Sage,0:09,Viper,A,True,opponent,Sasta rossi,SadScientist,"4,200","3,200",4,5,none,Attack,loss
+Raze,0:07,Raze,False,False,team,BOIt OP,BOIt OP,"3,300","4,600",6,4,none,Attack,win
+Raze,0:04,Raze,B,False,opponent,BOIt OP,tam0w,"3,900","3,400",5,4,none,Attack,win
+Raze,0:09,Cypher,B,False,team,BOIt OP,PavamaN,"3,800","4,000",5,1,none,Attack,win
+Raze,0:16,Cypher,B,True,team,BOIt OP,PavamaN,"4,300",900,2,5,none,Attack,loss
+Viper,0:20,Sage,False,False,team,,Sasta rossi,"4,500","4,900",2,5,none,Attack,loss
+Raze,0:04,Raze,False,False,opponent,BOIt OP,tam0w,"3,200","4,800",1,5,none,Attack,loss
+Sage,0:03,Viper,A,False,opponent,Sasta rossi,SadScientist,"3,200","4,600",5,3,none,Attack,win
+Raze,0:20,Raze,False,False,opponent,BOIt OP,tam0w,"4,000","4,500",2,5,none,Attack,loss
+Cypher,0:12,Reyna,False,False,opponent,PavamaN,gtr,"3,400","4,600",2,5,none,Attack,loss
+Gekko,0:16,KAYIO,False,False,team,,MA DMAN,800,700,5,4,none,Defense,win
+Viper,0:11,Sage,False,False,team,,Sasta rossi,"2,900",200,5,0,none,Defense,win
+Raze,0:14,KAYIO,False,False,team,BOIt OP,MA DMAN,"3,500","4,200",4,5,none,Defense,loss
+Reyna,0.53,Cypher,False,False,team,,PavamaN,"4,100","3,400",5,0,none,Defense,win
+Raze,0.40,KAYIO,False,False,team,BOIt OP,MA DMAN,"4,500",600,5,1,none,Defense,win
+Sage,0:10,Viper,B,False,opponent,Sasta rossi,SadScientist,"4,700",1900,4,5,none,Defense,loss
+Cypher,0:08,Gekko,A,False,opponent,PavamaN,bhooka,"4,600","4,000",1,5,none,Defense,loss
+Raze,0:17,Reyna,A,False,opponent,BOIt OP,gtr,"4,400","4,500",1,5,none,Defense,loss
+Viper,0:07,Sage,False,False,team,,Sasta rossi,"4,200","4,500",5,2,none,Defense,win
+KAYIO,0:10,Gekko,False,False,opponent,MA DMAN,bhooka,"4,600","4,500",2,5,none,Defense,loss
