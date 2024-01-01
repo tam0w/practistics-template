@@ -10,7 +10,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\08_09_2023_Split_13-9.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\08_09_2023_Split_9-13.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\10_09_2023_Split_13-11.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
